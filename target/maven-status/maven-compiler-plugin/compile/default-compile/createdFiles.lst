@@ -1,0 +1,4 @@
+com\mycompany\restful2\JAXRSConfiguration.class
+com\mycompany\restful2\resources\JavaEE8Resource.class
+com\mycompany\restful2\resources\JavaEE8Resource$Person.class
+com\mycompany\restful2\resources\JavaEE8Resource$Service.class
